@@ -1,3 +1,3 @@
 public class Model {
-    public String xmll = "html";
+    public String xml = "html";
 }
