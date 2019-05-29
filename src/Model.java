@@ -1,3 +1,3 @@
 public class Model {
-    public Controller4 col;
+    public String xmll = "html";
 }
